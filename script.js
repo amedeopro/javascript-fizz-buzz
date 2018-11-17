@@ -17,6 +17,6 @@ for (var i = 0; i < 100; i++) {
      stringa = "FizzBuzz"
    }
 
-    document.writeln(i + stringa + "<br>");
+    document.writeln(i + " " + stringa + "<br>");
     stringa = "";
 }
